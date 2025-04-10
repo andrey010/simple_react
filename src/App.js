@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<Landing />} />
+        <Route path="/simple_react" element={<Landing />} />
         <Route path="/listing" element={<Listing />} />
         <Route path="/cart" element={<Cart />} />
       </Routes>
