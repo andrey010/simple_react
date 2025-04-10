@@ -2,7 +2,7 @@
   "name": "simple_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrey010.github.io/plant-shop",
+  "homepage": "https://andrey010.github.io/simple_react",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@tailwindcss/postcss": "^4.1.3",
